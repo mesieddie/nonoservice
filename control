@@ -1,0 +1,9 @@
+Package: com.amdiron.nonoservice
+Name: NoNoService
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Removes 'No service' from the display.
+Maintainer: Amdiron
+Author: Amdiron
+Section: Tweaks
